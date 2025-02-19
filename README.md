@@ -6,6 +6,11 @@ Sistem CRUD memiliki peran yang sangat penting dalam manajemen data, memastikan 
 Akses dan tampilan data juga menjadi lebih mudah dengan sistem CRUD. Melalui fitur Read, pengguna dapat melihat seluruh data yang tersimpan dalam bentuk tabel atau daftar yang rapi. Biasanya, sistem ini juga dilengkapi dengan fitur paginasi untuk menampilkan data dalam jumlah besar tanpa membebani tampilan. Filtering dan sorting juga dapat ditambahkan agar pengguna lebih mudah mencari data berdasarkan kategori tertentu, seperti mengurutkan berdasarkan nama atau mencari berdasarkan NIM. Dengan fitur ini, pencarian data menjadi lebih cepat dan efisien.
 # Flowchart
 Berikut merupakan flowchart yang menggambarkan alur sistem yang kami buat
-![Alt Text](images/flow.jpg)
-
+![flow](https://github.com/user-attachments/assets/eae431f4-1e7e-405d-8837-a5586c3508fb)
+# Team
+  1.Okta Viona
+  2.Ilmaya
+  3.Noe Uriel
+# Link video
+https://youtu.be/PQziGo8wb_8?si=Lg3UAOblSoGvGbEC
 
